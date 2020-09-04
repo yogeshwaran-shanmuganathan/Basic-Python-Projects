@@ -1,5 +1,6 @@
 # Import necessary packages
 import tkinter as tink
+import tkinter.font as font
 
 # Initialise
 count = -1
@@ -48,13 +49,17 @@ def Reset(label):
       mark['text'] = 'Start'
 
 base = tink.Tk()
-base.title("PYTHON STOPWATCH")
-base.minsize(width=500, height=300)
-mark = tink.Label(base, text="Stopwatch!!", fg="black", font="Helvetica 30 bold")
+base.title("PYTHON GUI STOPWATCH")
+base.minsize(width=700, height=500)
+mark = tink.Label(base, text="Stopwatch!!", fg="black", font="Helvetica 50 bold")
 mark.pack()
-start = tink.Button(base, text='Start',width=25, command=lambda: Start(mark))
-stop = tink.Button(base, text='Stop', width=25, state='disabled', command=Stop)
-reset = tink.Button(base, text='Reset',width=25, state='disabled', command=lambda: Reset(mark))
+myFont = font.Font(size=15)
+start = tink.Button(base, text='Start',height=3, width=30, command=lambda: Start(mark))
+start['font'] = myFont
+stop = tink.Button(base, text='Stop', height=3, width=30, state='disabled', command=Stop)
+stop['font'] = myFont
+reset = tink.Button(base, text='Reset',height=3, width=30, state='disabled', command=lambda: Reset(mark))
+reset['font'] = myFont
 start.pack()
 stop.pack()
 reset.pack()
