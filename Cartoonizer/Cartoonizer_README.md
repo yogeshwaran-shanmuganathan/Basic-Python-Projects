@@ -14,3 +14,5 @@ The bilateral filter will reduce the color palatte for the cartoon look and the 
   Combine the color image from step 1 with the edge mask from step 4.
   
 ### Sample Output:
+
+![Sample Output Image of Cartoonizer]
