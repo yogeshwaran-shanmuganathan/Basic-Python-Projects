@@ -15,4 +15,4 @@ The bilateral filter will reduce the color palatte for the cartoon look and the 
   
 ### Sample Output:
 
-![Sample Output Image of Cartoonizer](https://github.com/yogeshwaran-shanmuganathan/Basic-Python-Projects/blob/master/Cartoonizer/cartoonizer_output.jpg)
+
