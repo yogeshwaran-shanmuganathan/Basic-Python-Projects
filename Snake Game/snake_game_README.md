@@ -1,4 +1,4 @@
-**Classic Snake Game built using Python.**
+**Classic Snake Game built using Python**
 
 *turtle* library in Python is used to create the snake game.
 
