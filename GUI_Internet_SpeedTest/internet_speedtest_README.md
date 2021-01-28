@@ -11,4 +11,4 @@ pip install speedtest-cli
 
 Image of the Internet SpeedTest window with  GUI:
 
-![Image of Internet SpeedTest with  GUI](https://github.com/yogeshwaran-shanmuganathan/Beginner-Level-Python-Projects/blob/master/GUI%20Calculator/GUI_Calculator.jpg)
+![Image of Internet SpeedTest with  GUI](https://github.com/yogeshwaran-shanmuganathan/Basic-Python-Projects/blob/master/GUI_Internet_SpeedTest/GUI_Internet_SpeedTest.jpg)
