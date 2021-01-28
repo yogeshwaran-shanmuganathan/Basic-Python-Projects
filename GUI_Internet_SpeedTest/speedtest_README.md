@@ -4,8 +4,9 @@
 
 *speedtest-cli* package is used for testing the internet speed. It is a command-line interface for testing internet bandwidth using *speedtest.net*. <br/>
 To install it type the below command in the terminal. <br/>
-''' <br/>
-pip install speedtest-cli <br/>
-''' <br/>
+
+```
+pip install speedtest-cli
+```
 
 Image of the Internet SpeedTest with  GUI:
