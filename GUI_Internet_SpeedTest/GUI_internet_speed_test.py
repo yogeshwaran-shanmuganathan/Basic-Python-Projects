@@ -33,4 +33,4 @@ l = tk.Label(root,text="Click here to start Internet Speed Test", bg="black",fg=
 l.place(x=50,y=250)
 b = tk.Button(root,text="Test Internet Speed", command=check, bg="cyan3",fg="black")
 b.place(x=50,y=300,height=40,width=300)
-root.mainloop()
+root.mainloop(
