@@ -9,4 +9,6 @@ To install it type the below command in the terminal. <br/>
 pip install speedtest-cli
 ```
 
-Image of the Internet SpeedTest with  GUI:
+Image of the Internet SpeedTest window with  GUI:
+
+![Image of Internet SpeedTest with  GUI](https://github.com/yogeshwaran-shanmuganathan/Beginner-Level-Python-Projects/blob/master/GUI%20Calculator/GUI_Calculator.jpg)
