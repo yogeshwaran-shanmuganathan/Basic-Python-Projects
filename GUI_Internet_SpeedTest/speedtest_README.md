@@ -1,4 +1,4 @@
-Internet Speed Test with GUI built using python.
+**Internet Speed Test with GUI built using python.**
 
 *Tkinter* package in Python is used for Graphical User Interface (GUI).
 
