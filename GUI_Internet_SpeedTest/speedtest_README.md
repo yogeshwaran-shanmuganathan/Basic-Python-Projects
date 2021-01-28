@@ -2,8 +2,8 @@
 
 *Tkinter* package in Python is used for Graphical User Interface (GUI).
 
-*speedtest-cli* package is used for testing the internet speed. It is a command-line interface for testing internet bandwidth using *speedtest.net*.
-To install it type the below command in the terminal.
+*speedtest-cli* package is used for testing the internet speed. It is a command-line interface for testing internet bandwidth using *speedtest.net*. <br/>
+To install it type the below command in the terminal. <br/>
 '''
 pip install speedtest-cli
 '''
