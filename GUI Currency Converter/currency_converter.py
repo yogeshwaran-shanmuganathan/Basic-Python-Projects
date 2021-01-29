@@ -1,4 +1,4 @@
-# prerequisites
+# prerequisite
 # pip install forex-python
 
 import tkinter as tk
