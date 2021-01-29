@@ -8,7 +8,7 @@ To install it type the below command in the terminal. <br/>
 ```
 pip install forex-python
 ```
-After installing, just use the library for currency rates:
+After installing, just use the library for currency rate conversion function:
 
 ```python
 from forex_python.converter import CurrencyRates
@@ -16,4 +16,4 @@ from forex_python.converter import CurrencyRates
 
 Image of the GUI Currency Converter:
 
-![Image of GUI Currency Converter](https://github.com/yogeshwaran-shanmuganathan/Basic-Python-Projects/blob/master/GUI_Internet_SpeedTest/GUI_Internet_SpeedTest.jpg)
+![Image of GUI Currency Converter](https://github.com/yogeshwaran-shanmuganathan/Basic-Python-Projects/blob/master/GUI%20Currency%20Converter/GUI_Currency_Converter.jpg)
